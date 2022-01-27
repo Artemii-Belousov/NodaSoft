@@ -133,7 +133,6 @@ html{
     color: #fff;
     transform: translate(-50%, -50%);
 }
-
 .block-second{
     background: #88B5BF;
     display: grid;
@@ -143,19 +142,16 @@ html{
     grid-auto-rows: minmax(198px, auto);
 
     margin-bottom: 100px;
-padding: 30px;
+    padding: 30px;
 }
 .block-second__item{
     position: relative;
     background: #0D89B0;
-
 }
 
 .footer{
     background: #7FAFF7;
     height: 100px;
-   
-
 }
 
 /* .pop-up-modal */
